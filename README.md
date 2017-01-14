@@ -4,7 +4,7 @@
 
 1. $ sudo pip install -r requirements.txt
 
-2. Set up Twilio account and add verify your number
+2. Set up [Twilio](www.twilio.com) account and add verify your number
 
 3. Set up [Ngrok](https://ngrok.com/download) to listen to port 5000
 
