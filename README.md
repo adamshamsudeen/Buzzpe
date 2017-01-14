@@ -14,3 +14,4 @@ Use req.py to mimic sms to the server.
 
 user.dat stores the temporary user information.
 
+qr_gen.py will generate qrcodes which enables sending of sms upon scanning the code.
