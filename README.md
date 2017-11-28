@@ -16,4 +16,4 @@ user.dat stores the temporary user information.
 
 qr_gen.py will generate qrcodes which enables sending of sms upon scanning the code.
 
-merch.py retrieves the details of the merchant
+merch.py retrieves the details of the merchant.
